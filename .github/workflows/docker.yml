@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: msohail09/cicd-app:latest
+          tags: mohammedsohail1047/cicd-app:latest
